@@ -1,4 +1,5 @@
-======SyMAT Toolkit Template======
+SyMAT Toolkit Template
+======================
 
 Starting in version 1.8, SyMAT has the ability to load toolkits into scripts.
 
@@ -9,7 +10,8 @@ The meta.txt file included in this template maps the class
 com.symatapp.toolkit.HelloWorld to the variable hello.  
 To call the function world(), type hello.world() into SyMAT.
 
-====License====
+License
+-------
 
 This repository is in the public domain, according to the terms of 
 Creative Commons Zero (https://creativecommons.org/publicdomain/zero/1.0/).
